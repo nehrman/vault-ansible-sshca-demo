@@ -1,0 +1,21 @@
+# Compiled Files
+*.tfstate
+*.tfstate.backup
+
+# Module Directory
+.terraform/
+
+# Terraform tfvars file
+*.tfvars
+
+# Connection File
+connection.tf
+
+.DS_store
+
+# Ansible files
+.ansible.cfg
+hosts
+*.yml
+
+
